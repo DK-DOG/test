@@ -1,0 +1,10 @@
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\bin\Debug\TestPictures.exe.config
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\bin\Debug\TestPictures.exe
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\bin\Debug\TestPictures.pdb
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\obj\Debug\TestPictures.csproj.AssemblyReference.cache
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\obj\Debug\TestPictures.Properties.Resources.resources
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\obj\Debug\TestPictures.csproj.GenerateResource.cache
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\obj\Debug\TestPictures.csproj.CoreCompileInputs.cache
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\obj\Debug\TestPictures.exe
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\obj\Debug\TestPictures.pdb
+D:\Нужное\VisualStudioRepos\TestPictures\TestPictures\obj\Debug\TestPictures.Form1.resources
